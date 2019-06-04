@@ -1,0 +1,24 @@
+{
+  "noticias": [
+    {
+      "author": "marca.com",
+      "description": "Antes que Stephen Curry hiciera suya la rutina de anotar desde el túnel de vestaurio casi antes de cada partido, Monta Ellis, que jugó sus primeros...",
+      "favorito": false,
+      "publishedAt": "Jan 10, 2019 6:18:11 PM",
+      "title": "El día que Monta Ellis anotó de espaldas...¡y desde el túnel de vestuarios!",
+      "url": "https://www.marca.com/baloncesto/nba/2019/01/10/5c378c59e5fdea7b6a8b463a.html",
+      "urlToImage": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_2690j8hm/width/657/cache_st/20190110191815/type/2/bgcolor/000000/0_2690j8hm.jpg",
+      "id": 2
+    },
+    {
+      "author": "ÁNGEL VILLAMOR",
+      "description": "l Real Madrid sufre el azote de las lesiones musculares. Las bajas de Kroos, Bale, Llorente, Mariano, Javi Sánchez y Courtois han hecho que planee de nuevo la sombra de la duda sob",
+      "favorito": true,
+      "publishedAt": "Jan 12, 2019 12:30:32 PM",
+      "title": "Explorar, analizar y controlar",
+      "url": "https://www.elmundo.es/deportes/futbol/2019/01/12/5c391b3721efa07d018b46d6.html",
+      "urlToImage": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2019/01/11/15472461894131.jpg",
+      "id": 3
+    }
+  ]
+}
